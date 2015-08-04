@@ -1,6 +1,6 @@
 # Functional REXX
 
-A set of procedures that implement the basics of functional programming &ndash; as in languages like LISP and Haskell &ndash; in the REXX language.
+A set of procedures that implement the basics of functional programming &ndash; as in languages like LISP and Haskell &ndash; in *non-object-oriented* REXX.
 
 In particular, it provides the following features:
 
