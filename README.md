@@ -10,6 +10,7 @@ In particular, it provides the following features:
 * Simple partial application (currying)
 	* This makes it easy to make simple procedures from more complex ones
 * `car`, `cdr`, and `cons` from LISP
+	* A pair of values can be stored in a single variable
 	* This allows for the creation of more complicated data types (especially linked lists)
 * Conversion between REXX stem variables and LISP-style linked lists
 	* This provides somewhat greater interoperability
